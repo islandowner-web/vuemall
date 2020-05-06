@@ -34,7 +34,7 @@
   import BackTop from 'components/content/backtop/BackTop'
 
   import {getHomeMultidata, getHomeGoods} from "network/home";
-  import {debounce} from "common/utils"
+  // import {debounce} from "common/utils"
   
 
   export default {
