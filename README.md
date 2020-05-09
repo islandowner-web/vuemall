@@ -41,9 +41,12 @@ npm run build
 
 - 首页 
 <img src="/pic/me.png" height='500'>
+
 - 详情页
 <img src="/pic/detail.png" height='500'> <img src="/pic/content.png" height='500'>  <img src="/pic/content2.png" height='500'>
+
 - 购物车
 <img src="/pic/cart.png" height='500'> 
+
 - 个人中心
 <img src="/pic/home.png" height='500'>
