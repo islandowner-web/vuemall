@@ -6,12 +6,19 @@ export function getHomeMultidata() {
   })
 }
 
+
+export function getHomePop() {
+  return request({
+    url: '/home/pop'
+  })
+}
+
 export function getHomeGoods(type, page) {
   return request({
-    url: '/home/data',
-    params: {
-      type,
-      page
-    }
+    url: '/home/data/pop',
+    // params: {
+    //   type,
+    //   page
+    // }
   })
 }

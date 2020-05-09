@@ -65,13 +65,18 @@
 
 <style scoped>
   .bottom-bar {
-    height: 40px;
-    background: #eee;
-    position: relative;
-    bottom: 135px;
-    z-index: 900;
-    line-height: 40px;
-    display: flex;
+    width: 100%;
+    height: 44px;
+    background-color: #eee;
+    position: fixed;
+    bottom: 49px;
+    left: 0;
+    box-shadow: 0 -2px 3px rgba(0, 0, 0, .2);
+    font-size: 14px;
+    color: #888;
+    line-height: 44px;
+    padding-left: 15px;
+    box-sizing: border-box;
   }
 
   .check-content{
@@ -94,9 +99,10 @@
 
   .calculate {
     width: 110px;
-    background: red;
+    background: orangered;
     position: absolute;
     right: 0;
     text-align: center;
+    color: #fff;
   }
 </style>

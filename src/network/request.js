@@ -3,7 +3,7 @@ import axios from 'axios'
 export function request(config) {
   // 1.创建axios的实例
   const instance = axios.create({
-    baseURL: "http://123.207.32.32:8000/api/m3",
+    baseURL: " https://www.easy-mock.com/mock/5e8debed51da6f1514fce16b/example",
     timeout: 5000
   })
 

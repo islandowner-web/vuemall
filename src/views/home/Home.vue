@@ -1,6 +1,6 @@
 <template>
   <div id="home">
-    <nav-bar class="home-nav"><div slot="center">购物街</div></nav-bar>
+    <nav-bar class="home-nav"><div slot="center">V-MALL</div></nav-bar>
     <tab-control :titles="['流行', '新款', '精选']" @tabClick="tabClick" ref="tabControl1"
                   class="tab-control"
                   v-show="isTabFixed"/>
@@ -81,10 +81,10 @@
     },
     mounted() {
       // 监听item中图片加载
-      const refresh = debounce(this.$refs.scroll.refresh, 50)
-      this.$bus.$on('itemImageLoad', () => {
-        refresh()
-      })
+      // const refresh = debounce(this.$refs.scroll.refresh, 50)
+      // this.$bus.$on('itemImageLoad', () => {
+      //   refresh()
+      // })
     },
     activated() {
       this.$refs.scroll.scrollTo(0, this.saveY, 0)

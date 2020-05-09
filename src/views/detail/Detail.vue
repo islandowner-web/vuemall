@@ -114,7 +114,7 @@
         this.$refs.scroll.refresh()
       },
       detailImageLoad() {
-        this.$refs.scroll.refresh()
+        // this.$refs.scroll.refresh()
 
         this.themeTopYs = []
         this.themeTopYs.push(0);

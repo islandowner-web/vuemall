@@ -26,15 +26,11 @@
         }
       }
     },
-    methods: {
-
-    },
   }
 </script>
 
 <style scoped>
   .swipers {
-    height: 300px;
-    overflow: hidden;
+    height: 375px;
   }
 </style>

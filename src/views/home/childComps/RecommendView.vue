@@ -29,8 +29,8 @@
     width: 100%;
     text-align: center;
     font-size: 12px;
-    padding: 10px 0 20px;
-    border-bottom: 8px solid #eee;
+    padding: 13px 0 13px;
+    border-bottom: 2px solid #eee;
   }
 
   .recommend-item {
@@ -38,8 +38,8 @@
   }
 
   .recommend-item img {
-    width: 65px;
-    height: 65px;
-    margin-bottom: 10px;
+    width: 35px;
+    height: 35px;
+    margin-bottom: 1px;
   }
 </style>

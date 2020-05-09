@@ -1,7 +1,7 @@
 <template>
   <div class="feature">
-    <a href="https://act.mogujie.com/zzlx67">
-      <img src="~assets/img/home/recommend_bg.jpg" alt="">
+    <a href="">
+      <img src="//m.360buyimg.com/mobilecms/s750x200_jfs/t1/127281/21/20/81656/5eb2b238E8b216c3e/a35480f58e28a25f.png.webp" alt="">
     </a>
   </div>
 </template>
