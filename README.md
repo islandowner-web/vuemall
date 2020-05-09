@@ -40,7 +40,7 @@ npm run build
 ## 效果展示（部分页面）   [图片出不来点这里---码云](https://gitee.com/islandowner_web/vuemall) 
 
 - 首页  
-<img src="/pic/me.png" height='500'>
+<img src="/pic/home.png" height='500'>
 
 - 详情页  
 <img src="/pic/detail.png" height='500'> <img src="/pic/content.png" height='500'>  <img src="/pic/content2.png" height='500'>
@@ -49,4 +49,4 @@ npm run build
 <img src="/pic/cart.png" height='500'> 
 
 - 个人中心  
-<img src="/pic/home.png" height='500'>
+<img src="/pic/me.png" height='500'>
